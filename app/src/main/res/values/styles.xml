@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_digit_style">
+        <item name="android:layout_width">@dimen/buttonW</item>
+        <item name="android:layout_height">@dimen/buttonH</item>
+        <item name="android:textSize">@dimen/buttonText</item>
+    </style>
+    
+    <style name="enter_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+
+    <style name="title_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text2</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+
+    <style name="info_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/info</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="button_action_style">
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">@dimen/buttonH</item>
+        <item name="backgroundTint">@color/button</item>
+        <item name="cornerRadius">@dimen/corners</item>
+        <item name="strokeWidth">@dimen/stroke</item>
+        <item name="strokeColor">@color/stroke</item>
+        <item name="android:textColor">@color/stroke</item>
+        <item name="android:textSize">20sp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="text_pincode">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/stroke</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

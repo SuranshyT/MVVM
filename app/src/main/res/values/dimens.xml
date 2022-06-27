@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttonW">81dp</dimen>
+    <dimen name="buttonH">65dp</dimen>
+    <dimen name="corners">10dp</dimen>
+    <dimen name="stroke">2dp</dimen>
+    <dimen name="buttonText">31sp</dimen>
+    <dimen name="text">35sp</dimen>
+    <dimen name="text2">30sp</dimen>
+    <dimen name="info">20sp</dimen>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PinCode</string>
+    <string name="text">Введите код</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="buttonC"><![CDATA[<]]></string>
+    <string name="button0">0</string>
+    <string name="buttonOk">OK</string>
+    <string name="text2">Личная страница</string>
+    <string name="name">Томирис Сұраншы</string>
+    <string name="email">tomiris.suranshy@gmail.com</string>
+    <string name="button_share">Поделиться</string>
+    <string name="button_email">Отправить по почте</string>
+    <string name="button_call">Позвонить</string>
+    <string name="button_camera">Запустить камеру</string>
+    <string name="phone">+77073179079</string>
+    <string name="shared_text">My name: %1$s, email: %2$s and phone: %3$s</string>
+    <string name="share_chooser_title">Share</string>
+    <string name="email_subject">My contacts</string>
+    <string name="email_chooser_title">Send email</string>
+</resources>

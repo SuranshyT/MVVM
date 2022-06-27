@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/button_ok_selector.xml" value="0.183" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/button_ok_shape.xml" value="0.183" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/button_shape_basic.xml" value="0.183" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/button_shape_pressed.xml" value="0.183" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/button_shape_selector.xml" value="0.183" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/button_text_color.xml" value="0.183" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/rounded.xml" value="0.183" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/rounded_image.xml" value="0.183" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/shake.xml" value="0.1" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/t.xml" value="0.208" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/text_shape_empty.xml" value="0.2525" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/text_shape_enter.xml" value="0.2525" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/drawable/text_shape_wrong.xml" value="0.2525" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/layout-land/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/layout-land/activity_next.xml" value="0.1359375" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/layout/activity_next.xml" value="0.2" />
+        <entry key="..\:/Users/tomir/AndroidStudioProjects/PinCode/app/src/main/res/layout/item_enter_pincode.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
