@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/translateFragment"
+        android:enabled="true"
+        android:icon="@drawable/bottom_menu_icon_translate"
+        android:title="" />
+    <item
+        android:id="@+id/newsFragment"
+        android:enabled="true"
+        android:icon="@drawable/bottom_menu_icon_heart"
+        android:title="" />
+    <item
+        android:id="@+id/converterFragment"
+        android:enabled="true"
+        android:icon="@drawable/bottom_menu_icon_converter"
+        android:title="" />
+    <item
+        android:id="@+id/searchFragment"
+        android:enabled="true"
+        android:icon="@drawable/bottom_menu_icon_search"
+        android:title="" />
+    <item
+        android:id="@+id/accountFragment"
+        android:enabled="true"
+        android:icon="@drawable/bottom_menu_icon_account"
+        android:title="" />
+</menu>

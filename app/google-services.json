@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383972663420",
+    "project_id": "converter-notifications",
+    "storage_bucket": "converter-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383972663420:android:9dfc20f738ba221c1ae9f9",
+        "android_client_info": {
+          "package_name": "kz.home.converter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383972663420-lccbfgnf6nogne0ghn2096mpoouo6pgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjuonJFJp8hUXRHJTiTPNPQmqE_hP3pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383972663420-lccbfgnf6nogne0ghn2096mpoouo6pgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

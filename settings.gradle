@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "PinCode"
+rootProject.name = "Converter"
 include ':app'

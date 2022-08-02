@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/converterFragment">
+
+    <fragment
+        android:id="@+id/converterFragment"
+        android:name="kz.home.converter.presentation.converter.ConverterFragment"
+        android:label="ConverterFragment"
+        tools:layout="@layout/converter_fragment">
+        <deepLink app:uri="www.example.com/converter" />
+    </fragment>
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="kz.home.converter.presentation.account.AccountFragment"
+        android:label="AccountFragment"
+        tools:layout="@layout/account_fragment">
+        <deepLink app:uri="www.example.com/account" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="kz.home.converter.presentation.news.NewsFragment"
+        android:label="NewsFragment"
+        tools:layout="@layout/news_fragment">
+        <deepLink app:uri="www.example.com/news" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="kz.home.converter.presentation.search.SearchFragment"
+        android:label="SearchFragment"
+        tools:layout="@layout/search_fragment">
+        <deepLink app:uri="www.example.com/search" />
+    </fragment>
+    <fragment
+        android:id="@+id/translateFragment"
+        android:name="kz.home.converter.presentation.TranslateFragment"
+        android:label="TranslateFragment"
+        tools:layout="@layout/fragment">
+        <deepLink app:uri="www.example.com/translate" />
+    </fragment>
+    <dialog
+        android:id="@+id/bottomSheet"
+        android:name="kz.home.converter.presentation.converter.AddBottomSheet"
+        android:label="BottomSheet" />
+</navigation>
